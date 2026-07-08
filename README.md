@@ -81,7 +81,7 @@ The Anchor program (`programs/earth/src/lib.rs`) implements:
 
 ## Admin Authority
 
-The admin key (`FndrmgjS9iZ7wgnj58fp49W3cMSc3XEfBYkYA8J4cTH3`) is hardcoded into the program. It can:
+The admin key is hardcoded into the program. It can:
 
 - Trigger emergency freeze
 - Update oracle endpoints
