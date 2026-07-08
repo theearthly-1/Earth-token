@@ -137,7 +137,7 @@ We are actively seeking experienced developers to join the core team:
 
 See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on how to get involved.
 
-**Contact:** [YOUR_EMAIL@protonmail.com]
+**Contact:** [earthprotocall@protonmail.com]
 
 ---
 
